@@ -40,10 +40,6 @@ An experimental music interface combining synthesis, sequencing, MIDI control, a
 
 Microsoft · Xbox · Google · Amazon · EA SPORTS · Whatnot · REI
 
-## Resume
-
-[View my resume](./Nate%20Johnson%20-%20Resume%202026.pdf)
-
 ## Connect
 
 - [Portfolio](https://www.natethousand.com)
