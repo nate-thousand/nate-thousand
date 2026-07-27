@@ -6,26 +6,26 @@ I've designed products and platforms for Microsoft, Xbox, Google, Amazon, EA SPO
 
 ## Featured work
 
-| Project | Experience | What it demonstrates |
+| Product | Experience | What it does |
 | --- | --- | --- |
-| [Plantasonic](https://github.com/nate-thousand/plantasonic) | [Launch](https://www.plantasonic.xyz/) | A generative audiovisual instrument built from a reusable platform, design system, sound engine, and ASCII visual engine |
-| [Signal 9](https://github.com/nate-thousand/signal-9-live) | [Launch](https://signal-9-live.vercel.app/) | An AI-first broadcast terminal combining structured narrative, music, state, and real-time visuals |
-| [ASCII Visual Engine](https://github.com/nate-thousand/ascii-visual-engine) | [Explore](https://ascii-visual-engine.vercel.app/) | A documented TypeScript framework for expressive real-time ASCII systems |
-| [Plantasonic Design System](https://github.com/nate-thousand/plantasonic-design-system) | [Explore](https://plantasonic-design-system.vercel.app/) | Tokens, components, application shells, documentation, and accessible interaction patterns |
-| [Treat Life](https://github.com/nate-thousand/treat-life) | [Repository](https://github.com/nate-thousand/treat-life) | A configuration-driven brand prototype and AI-first design system; the former deployment is no longer public |
+| **AI Portfolio** | [Open portfolio](https://natejohnson-portfolio.xyz/) | An access-controlled product design portfolio with interactive case studies, systems documentation, and the Ask Nate AI assistant |
+| [BPM](https://github.com/nate-thousand/bpm) | [Launch app](https://bpm-ten.vercel.app/) | A focused tap-tempo instrument that turns repeated taps into a readable BPM and demonstrates polished interaction design in a small product |
 
-## The Plantasonic ecosystem
+## Explorations
 
-```text
-Plantasonic experience
-├── Plantasonic Platform
-├── Plantasonic Design System
-├── ASCII Visual Engine
-└── Plantasia Sound Engine
-
-Signal 9
-└── Built on the same platform and engines
-```
+| Exploration | Link | What it does |
+| --- | --- | --- |
+| Plantasonic | [Launch](https://www.plantasonic.xyz/) · [Repository](https://github.com/nate-thousand/plantasonic) | A generative audiovisual instrument built from a reusable platform, design system, sound engine, and ASCII visual engine |
+| Signal 9 | [Launch](https://signal-9-live.vercel.app/) · [Repository](https://github.com/nate-thousand/signal-9-live) | An AI-first broadcast terminal combining structured narrative, music, state, and real-time visuals |
+| ASCII Visual Engine | [Explore](https://ascii-visual-engine.vercel.app/) · [Repository](https://github.com/nate-thousand/ascii-visual-engine) | A TypeScript engine for expressive real-time ASCII visuals, audio, MIDI, and generative systems |
+| Plantasonic Design System | [Explore](https://plantasonic-design-system.vercel.app/) · [Repository](https://github.com/nate-thousand/plantasonic-design-system) | Design tokens, components, application shells, documentation, and accessible interaction patterns |
+| Plantasonic Platform | [Repository](https://github.com/nate-thousand/plantasonic-platform) | A reusable SDK and orchestration layer for AI-first creative applications |
+| Plantasia | [Launch](https://plantasia-ten.vercel.app/) · [Repository](https://github.com/nate-thousand/plantasia) | A plant-inspired generative synthesizer with MIDI and growth-mode visuals |
+| Plantasia Sound Engine | [Repository](https://github.com/nate-thousand/plantasia-sound-engine) | A reusable TypeScript and Tone.js synthesis engine; its hosted control surface currently requires Vercel authentication |
+| Plantasia Engine Test | [Explore](https://plantasia-engine-test.vercel.app/) · [Repository](https://github.com/nate-thousand/plantasia-engine-test) | A playground for testing audio, MIDI, presets, and visual-engine integration |
+| Treat Life | [Repository](https://github.com/nate-thousand/treat-life) | A configuration-driven brand prototype and AI-first design system; its former public deployment is retired |
+| Nate Thousand Labs | [Explore](https://natethousandlabs.vercel.app/) · [Repository](https://github.com/nate-thousand/natethousandarchive) | A historical index of interaction, HTML, and creative-coding prototypes |
+| Drop Drop | [Archived repository](https://github.com/nate-thousand/drop-drop) | An archived drag-and-drop portfolio-builder prototype |
 
 ## How I work
 
@@ -49,11 +49,7 @@ Signal 9
 
 Microsoft · Xbox · Google · Amazon · EA SPORTS · Whatnot · REI
 
-## Portfolio
-
-- [Current AI-first portfolio](https://natejohnson-portfolio.xyz/) — access controlled
-- [Selected work archive](https://www.natethousand.com/)
-
 ## Connect
 
+- [Portfolio](https://natejohnson-portfolio.xyz/) — access controlled
 - [LinkedIn](https://www.linkedin.com/in/neight1000/)
